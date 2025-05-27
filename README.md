@@ -27,3 +27,5 @@ Este projeto foi criado para praticar:
    ```bash
    git clone https://github.com/sousadrip/jogo-colheita-concorrente-
    cd jogo-colheita-concorrente-
+   python fazenda_cosmica.py
+
