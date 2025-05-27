@@ -1,8 +1,8 @@
-# 🌌 Fazenda Cósmica
+🌌 Fazenda Cósmica
 
-**Fazenda Cósmica** é um jogo simples em Python desenvolvido como parte de um projeto acadêmico. Nele, você administra uma fazenda intergaláctica e interage com elementos espaciais inusitados!
+Fazenda Cósmica é um jogo simples em Python desenvolvido como parte de um projeto acadêmico. Nele, você administra uma fazenda intergaláctica e interage com elementos espaciais inusitados!
 
-## 🎮 Sobre o Jogo
+🎮 Sobre o Jogo
 
 Neste jogo, você será responsável por:
 
@@ -12,7 +12,7 @@ Neste jogo, você será responsável por:
 
 O foco está no aprendizado de lógica de programação, estruturas condicionais e funções em Python.
 
-## 🧠 Objetivos Educacionais
+🧠 Objetivos Educacionais
 
 Este projeto foi criado para praticar:
 
@@ -21,9 +21,9 @@ Este projeto foi criado para praticar:
 - Uso de Git e GitHub para controle de versão;
 - Escrita de documentação básica de projetos.
 
-## ▶️ Como Rodar
+▶️ Como Rodar
 
-1. **Clone este repositório**:
+1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/
-   cd 
+   git clone https://github.com/sousadrip/jogo-colheita-concorrente-
+   cd jogo-colheita-concorrente-
